@@ -7,7 +7,7 @@
 
 ## Web
 
-![대시보드](C:\Users\Daniel\wtwproject\main.png)
+![대시보드](main.png)
 
 
 
