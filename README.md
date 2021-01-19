@@ -9,11 +9,11 @@
 
 ## 대용량 전처리
 
-![대용량전처리](wtwpreprocess.jpg)
+![대용량전처리](wtwpreprocess1.jpg)
 
 ## 분석
 
-![분석](wtwpreprocess1.jpg)
+![분석](wtwpreprocess.jpg)
 
 ## Web
 
